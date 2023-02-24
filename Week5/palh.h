@@ -1,0 +1,2 @@
+void rev(char *a);
+

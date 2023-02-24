@@ -1,0 +1,1 @@
+int sym(int n;int a[n][n],int t[n][n],int n);
